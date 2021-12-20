@@ -1,0 +1,1 @@
+"""The stock_price component."""

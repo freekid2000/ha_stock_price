@@ -1,0 +1,8 @@
+{
+    "domain": "stock_price",
+    "name": "stock_price",
+    "documentation": "",
+    "issue_tracker": "",
+    "codeowners": ["@robinson"],
+    "version": "1.0.0"
+  }
